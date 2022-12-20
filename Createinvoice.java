@@ -20,7 +20,7 @@ public class Createinvoice extends BaseClass{
 	
 		public void main()
 		{
-
+//
 		Random ran=new Random();
 		int names = ran.nextInt(1000);
 		String name= Integer.toString(names);
