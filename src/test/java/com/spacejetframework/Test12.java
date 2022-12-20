@@ -1,4 +1,4 @@
-package com.spacejetObjectRepository;
+package com.spacejetframework;
 
 import org.testng.annotations.Test;
 
