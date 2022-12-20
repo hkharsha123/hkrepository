@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="apiassu/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="apiassu/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="apiassu/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="apiassu/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="apiassu/groovy-3.0.2.jar"/>
+	<classpathentry kind="lib" path="apiassu/groovy-json-3.0.2.jar"/>
+	<classpathentry kind="lib" path="apiassu/groovy-xml-3.0.2.jar"/>
+	<classpathentry kind="lib" path="apiassu/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="apiassu/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="apiassu/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="apiassu/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="apiassu/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="apiassu/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="apiassu/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="apiassu/json-path-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="apiassu/json-path-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="apiassu/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="apiassu/rest-assured-4.3.0.jar"/>
+	<classpathentry kind="lib" path="apiassu/rest-assured-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="apiassu/rest-assured-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="apiassu/rest-assured-common-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="apiassu/rest-assured-common-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="apiassu/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="apiassu/xml-path-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="apiassu/xml-path-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="apiassu/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harsha H K/Downloads/jackson-annotations-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harsha H K/Downloads/jackson-databind-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harsha H K/Downloads/jackson-core-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harsha H K/Downloads/gson-2.9.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
